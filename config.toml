@@ -1,0 +1,5 @@
+baseURL = "https://Gary-Hh-Chen.github.io/"
+languageCode = "en-us"
+title = "Gary's Blog Site"
+
+theme="m10c"

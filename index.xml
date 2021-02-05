@@ -6,46 +6,15 @@
     <description>Recent content on Gary&#39;s Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Feb 2021 20:35:35 +0800</lastBuildDate><atom:link href="https://Gary-Hh-Chen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Feb 2021 20:43:41 +0800</lastBuildDate><atom:link href="https://Gary-Hh-Chen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>4th_article</title>
-      <link>https://Gary-Hh-Chen.github.io/post/4th_article/</link>
-      <pubDate>Fri, 05 Feb 2021 20:35:35 +0800</pubDate>
+      <title>Hello_world</title>
+      <link>https://Gary-Hh-Chen.github.io/post/hello_world/</link>
+      <pubDate>Fri, 05 Feb 2021 20:43:41 +0800</pubDate>
       
-      <guid>https://Gary-Hh-Chen.github.io/post/4th_article/</guid>
-      <description>4th article test
-test</description>
-    </item>
-    
-    <item>
-      <title>3rd_article</title>
-      <link>https://Gary-Hh-Chen.github.io/post/3rd_article/</link>
-      <pubDate>Fri, 05 Feb 2021 17:32:13 +0800</pubDate>
-      
-      <guid>https://Gary-Hh-Chen.github.io/post/3rd_article/</guid>
-      <description>第三篇文章 test
-test
-test</description>
-    </item>
-    
-    <item>
-      <title>2nd_article</title>
-      <link>https://Gary-Hh-Chen.github.io/post/2nd_article/</link>
-      <pubDate>Fri, 05 Feb 2021 13:03:35 +0800</pubDate>
-      
-      <guid>https://Gary-Hh-Chen.github.io/post/2nd_article/</guid>
-      <description>2nd article test
-test</description>
-    </item>
-    
-    <item>
-      <title>1st_article_测试发布博客</title>
-      <link>https://Gary-Hh-Chen.github.io/post/1st_article/</link>
-      <pubDate>Thu, 04 Feb 2021 23:03:04 +0800</pubDate>
-      
-      <guid>https://Gary-Hh-Chen.github.io/post/1st_article/</guid>
-      <description>测试发布博客 test
-hello world!</description>
+      <guid>https://Gary-Hh-Chen.github.io/post/hello_world/</guid>
+      <description>Hello world Hi! This is a blog site for testing only.
+Nice to see you though.</description>
     </item>
     
   </channel>

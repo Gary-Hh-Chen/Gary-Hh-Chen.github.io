@@ -20,10 +20,11 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
-hugo --buildDrafts
+hugo --buildDrafts #??? check it!!! CHH
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)" && cd ..
 
 #echo "Pushing to github"
 #git push --all
+#git push origin gh-pages

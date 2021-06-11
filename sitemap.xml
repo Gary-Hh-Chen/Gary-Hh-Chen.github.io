@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://igarycc.github.io/post/hello_world/</loc>
-    <lastmod>2021-02-05T20:43:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://igarycc.github.io/</loc>
-    <lastmod>2021-02-05T20:43:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://igarycc.github.io/post/</loc>
-    <lastmod>2021-02-05T20:43:41+08:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://igarycc.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://igarycc.github.io/</loc>
+  </url><url>
     <loc>https://igarycc.github.io/tags/</loc>
   </url>
-  
 </urlset>
